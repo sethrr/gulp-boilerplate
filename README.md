@@ -3,11 +3,16 @@ Front End Gulp Boilerplate
 
 Front-end boilerplate for Gulp with everything you need to get started.
 
-* First download or clone this repo :)
-* Then run `npm install` to install dev dependencies. Use sudo if needed.
+Features:
+* Concat
+* Uglify
+* Sass
+* SourceMaps
+* Imagemin
+* MinifyCSS
+* BrowserSync
+* Autoprefixer
 
-You'll need to have Gulp installed. If you already have Gulp installed, you can skip the following line. It is as simple as running:
-* `npm install -g gulp`
 
 During development mode, run the default task so you'll have watchers and browser sync. Simply do the following:
 * Run `gulp` to start it up
@@ -22,8 +27,3 @@ The following Node versions have been tested
 * 4.x
 * 6.x
 
-Version
-==========================
-1.4.0
-
-Thanks for everyone's support and appreciation for this project!
